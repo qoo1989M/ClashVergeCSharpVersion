@@ -7,3 +7,5 @@ https://github.com/clash-verge-rev/clash-verge-rev
 依赖.net framework 4.8
 可以安装依赖
 https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48
+
+主要是为了支持win7
