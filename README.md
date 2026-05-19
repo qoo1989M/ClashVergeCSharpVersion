@@ -9,3 +9,4 @@ https://github.com/clash-verge-rev/clash-verge-rev
 https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48
 
 主要是为了支持win7
+2.0修改了界面，新增默认GeoSite避免报错内核启动失败
