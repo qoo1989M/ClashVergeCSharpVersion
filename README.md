@@ -58,7 +58,7 @@ msbuild yourproject.csproj /p:Configuration=Release
 A: 可以。这是本项目的核心设计目标之一。确保已安装 .NET Framework 4.8。
 
 **Q: Clash Core 需要额外下载吗？**  
-A: 根据实现方式，可能需要自行放置 Clash 二进制文件到指定目录（配置说明见项目代码）。
+A: Release的包里面包含了，需要更新可以去下载。https://github.com/MetaCubeX/mihomo/releases 改名后放到sidecar目录
 
 ## 📄 License
 
