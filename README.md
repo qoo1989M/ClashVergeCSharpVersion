@@ -1,5 +1,3 @@
-![Logo](images/logo.png)
-
 # ClashVergeCSharpVersion
 
 Clash Verge 的 C# 简易移植版，基于 .NET Framework 4.8 打造，专为 **Windows 7** 优化。
@@ -24,7 +22,7 @@ Clash Verge 的 C# 简易移植版，基于 .NET Framework 4.8 打造，专为 *
 
 <table>
 <tr>
-<td><img src="HomeView.png" alt="主页界面" width="600"><br>**主页面板** — 查看节点、切换规则</td>
+<td><img src="HomeView.png" alt="主页界面" width="600"><br>**主页面板** — 状态概览</td>
 <td><img src="SubscribeView.png" alt="订阅页面" width="600"><br>**订阅管理** — 添加/更新代理订阅配置</td>
 </tr>
 </table>
