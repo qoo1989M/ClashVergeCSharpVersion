@@ -12,7 +12,7 @@ Clash Verge 的 C# 简易移植版，基于 .NET Framework 4.8 打造，专为 *
 
 ## 📋 简介
 
-一个轻量级的 Clash 代理 GUI 客户端，使用 C# + WPF/WinForms（根据实现调整）编写。目标是提供一个简单、易用的翻墙工具，重点支持 Windows 7 系统。
+一个轻量级的 Clash 代理 GUI 客户端，使用 C# + WPF/WinForms（根据实现调整）编写。目标是提供一个简单、易用的工具，重点支持 Windows 7 系统。
 
 **核心特性：**
 - ⚡ 极简 UI，专注于功能本身
